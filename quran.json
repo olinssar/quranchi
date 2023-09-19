@@ -999,8 +999,17 @@
             "num": 20,
             "sounds": [
                 {
- "name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/020.mp3"},{                   
-"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/020.mp3"},{                    
+
+   "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/020.mp3"},{                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/020.mp3"},{
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/020.mp3"},{                   
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/020.mp3"},{
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/020.mp3"},{
+ "name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/020.mp3"},{                   
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/020.mp3"},{ 
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/020.mp3"},{                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/020.mp3"},{                     
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/020.mp3"},{                  
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/020.mp3"
                 },
