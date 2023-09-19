@@ -10,8 +10,16 @@
             "num": 1,
             "sounds": [
                 {
+                    "name": "نبيل الرفاعي",
+                    "url": "https://server9.mp3quran.net/nabil/001.mp3"
+                },
+                {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/001.mp3"
+                },
+                {
+                    "name": "العشري عمران",
+                    "url": "https://server9.mp3quran.net/omran/001.mp3"
                 },
                 {
                     "name": "محمد المنشاوي",
@@ -26,6 +34,147 @@
                     "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/001.mp3"
                 },
                 {
+                    "name": "ياسر القرشي",
+                    "url": "https://server9.mp3quran.net/qurashi/001.mp3"
+                },
+                {
+                    "name": "علي الحذيفي",
+                    "url": "https://server9.mp3quran.net/huthifi_qalon/001.mp3"
+                },
+                {
+                      "name": "عمر القزابري",
+                    "url": "https://server9.mp3quran.net/omar_warsh/001.mp3"
+                },
+                {
+                        "name": "ياسر المزروعي",
+                    "url": "https://server9.mp3quran.net/mzroyee/001.mp3"
+                },
+                {
+                      "name": "ماجد الزامل",
+                    "url": "https://server9.mp3quran.net/zaml/001.mp3"
+                },
+                {
+                          "name": "زكي الداغستاني",
+                    "url": "https://server9.mp3quran.net/zahrani/001.mp3"
+                },
+                {
+                              "name": "عبد العزيز الزهراني",
+                    "url": "https://server9.mp3quran.net/zahrani/001.mp3"
+                },
+                {
+
+          "name": "وليد النائحي",
+                    "url": "https://server9.mp3quran.net/waleed/001.mp3"
+                },
+                {
+          "name": "يوسف الشويعي",
+                    "url": "https://server9.mp3quran.net/yousef/001.mp3"
+                },
+                {
+          "name": "اكرم العلقمي",
+                    "url": "https://server9.mp3quran.net/akrm/001.mp3"
+                },
+                {
+          "name": "علي السويسي",
+                    "url": "https://server9.mp3quran.net/hajjaj/001.mp3"
+                },
+                {
+          "name": "الزين محمد",
+                    "url": "https://server9.mp3quran.net/alzain/001.mp3"
+                },
+                {
+          "name": "داوود حمزة",
+                    "url": "https://server9.mp3quran.net/hamza/001.mp3"
+                },
+                {
+                  "name": "مصطفى اسماعيل",
+                    "url": "https://server8.mp3quran.net/mustafa/001.mp3"
+                },
+                {  
+          "name": "يوسف الاحمد",
+                    "url": "https://server8.mp3quran.net/noah/001.mp3"
+                },
+                {
+          "name": "عبد المحسن القاسم",
+                    "url": "https://server8.mp3quran.net/qasm/001.mp3"
+                },
+                {
+          "name": "مصطفى العزاوي",
+                    "url": "https://server8.mp3quran.net/ra3ad/001.mp3"
+                },
+                {
+          "name": "عبد الودود حنيف",
+                    "url": "https://server8.mp3quran.net/wdod/001.mp3"
+                },
+                {
+              "name": "صالح الصاهود",
+                    "url": "https://server8.mp3quran.net/sahood/001.mp3"
+                },
+                {  
+          "name": "احمد صابر",
+                    "url": "https://server8.mp3quran.net/saber/001.mp3"
+                },
+                {
+          "name": "عادل ريان",
+                    "url": "https://server8.mp3quran.net/ryan/001.mp3"
+                },
+                {
+          "name": "معيض الحارثي",
+                    "url": "https://server8.mp3quran.net/harthi/001.mp3"
+                },
+                {
+          "name": "محمد جبريل",
+                    "url": "https://server8.mp3quran.net/jbrl/001.mp3"
+                },
+                {
+          "name": "محمد اللحيدان",
+                    "url": "https://server8.mp3quran.net/lhdan/001.mp3"
+                },
+                {
+          "name": "عبدالله المطرود",
+                    "url": "https://server8.mp3quran.net/mtrod/001.mp3"
+                },
+                {
+          "name": "محمود علي البناء",
+                    "url": "https://server8.mp3quran.net/bna/001.mp3"
+                },
+                {
+             "name": "هاني الرفاعي",
+                    "url": "https://server8.mp3quran.net/hani/001.mp3"
+                },
+                {
+          "name": "عبدالله غيلان",
+                    "url": "https://server8.mp3quran.net/gulan/001.mp3"
+                },
+                {
+          "name": "صلاح ابو خاطر",
+                    "url": "https://server8.mp3quran.net/bu_khtr/001.mp3"
+                },
+                {
+          "name": "عادل الكلباني",
+                    "url": "https://server8.mp3quran.net/a_klb/001.mp3"
+                },
+                {
+          "name": "مشاري العفاسي",
+                    "url": "https://server8.mp3quran.net/afs/001.mp3"
+                },
+                {
+          "name": "احمد الحذيفي",
+                    "url": "https://server8.mp3quran.net/ahmad_huth/001.mp3"
+                },
+                {
+          "name": "محمد ايوب",
+                    "url": "https://server8.mp3quran.net/ayyub/001.mp3"
+                },
+                {
+          "name": "سعد الغامدي",
+                    "url": "https://server7.mp3quran.net/s_gmd/001.mp3"
+                },
+                {
+            "name": "سعد الشرمي",
+                    "url": "https://server7.mp3quran.net/shur/001.mp3"
+                },
+                {                  
                     "name": "محمود الحصري",
                     "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/001.mp3"
                 },
@@ -44,6 +193,10 @@
                 {
                     "name": "مشاري راشد العفاسي",
                     "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3"
+                },
+                {
+                    "name": "احمد عامر",
+                    "url": "https://server10.mp3quran.net/Aamer/001.mp3"
                 },
                 {
                     "name": "ياسر الدوسري",
