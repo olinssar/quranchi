@@ -110,6 +110,10 @@
             "num": 3,
             "sounds": [
                 {
+                     "name": "عبد الكريم الحازمي",
+                    "url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/003.mp3"
+                },
+                {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/003.mp3"
                 },
@@ -156,6 +160,10 @@
             "num": 4,
             "sounds": [
                 {
+                     "name": "عبد الكريم الحازمي",
+                    "url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/004.mp3"
+                },
+                {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/004.mp3"
                 },
@@ -201,6 +209,10 @@
         {
             "num": 5,
             "sounds": [
+                {
+                     "name": "عبد الكريم الحازمي",
+                    "url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/005.mp3"
+                },
                 {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/005.mp3"
