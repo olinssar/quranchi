@@ -314,10 +314,36 @@
             "num": 5,
             "sounds": [
                 {
-                     "name": "عبد الكريم الحازمي",
-                    "url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/005.mp3"
-                },
-                {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/005.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/005.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/005.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/005.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/005.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/005.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/005.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/005.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/005.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/005.mp3"
+ },
+ {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/005.mp3"
                 },
@@ -364,6 +390,36 @@
             "num": 6,
             "sounds": [
                 {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/006.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/006.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/006.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/006.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/006.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/006.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/006.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/006.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/006.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/006.mp3"
+ },
+ {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/006.mp3"
                 },
@@ -410,6 +466,36 @@
             "num": 7,
             "sounds": [
                 {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/007.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/007.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/007.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/007.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/007.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/007.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/007.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/007.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/007.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/007.mp3"
+ },
+ {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/007.mp3"
                 },
@@ -492,6 +578,36 @@
                     "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/008.mp3"
                 },
                 {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/008.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/008.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/008.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/008.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/008.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/008.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/008.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/008.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/008.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/008.mp3"
+ },
+ {
                     "name": "ياسر الدوسري",
                     "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/008.mp3"
                 }
@@ -502,6 +618,36 @@
             "num": 9,
             "sounds": [
                 {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/009.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/009.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/009.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/009.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/009.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/009.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/009.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/009.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/009.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/009.mp3"
+ },
+ {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/009.mp3"
                 },
@@ -548,6 +694,36 @@
             "num": 10,
             "sounds": [
                 {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/010.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/010.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/010.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/010.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/010.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/010.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/010.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/010.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/010.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/010.mp3"
+ },
+ {
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/010.mp3"
                 },
