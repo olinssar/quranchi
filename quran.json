@@ -31,7 +31,6 @@
 "name": "احمد ديبان","url": "https://ia803000.us.archive.org/20/items/Z02_20190528/001.mp3"
  },
  {  
-
 "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/002.mp3"
  },
  {                   
@@ -226,7 +225,6 @@
 "name": "احمد ديبان","url": "https://ia803000.us.archive.org/20/items/Z02_20190528/003.mp3"
  },
  {  
-
                     "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/003.mp3"
  },
  {                   
@@ -1065,6 +1063,54 @@
             "num": 13,
             "sounds": [
                 {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/013.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/013.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/013.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/013.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/013.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/013.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/013.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/013.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/013.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/013.mp3"
+ },
+ {
+"name": "احمد بن طالب","url": "https://server16.mp3quran.net/a_binhameed/Rewayat-Hafs-A-n-Assem/013.mp3"
+ },
+ {  
+"name": "بدر التركي","url": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/013.mp3"
+ },
+ {   
+"name": "صلاح البدير","url": "https://server6.mp3quran.net/s_bud/013.mp3"
+ },
+ {  
+ "name": "احمد النفيس","url": "https://ia801003.us.archive.org/26/items/002_20190712/013.mp3"
+ },
+ {        
+"name": "عبد العزيز التركي","url": "https://server16.mp3quran.net/a_turki/Rewayat-Hafs-A-n-Assem/013.mp3"
+ },
+ {  
+"name": "احمد ديبان","url": "https://ia803000.us.archive.org/20/items/Z02_20190528/013.mp3"
+ },
+ {  
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/013.mp3"
                 },
@@ -1111,6 +1157,54 @@
             "num": 14,
             "sounds": [
                 {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/014.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/014.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/014.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/014.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/014.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/014.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/014.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/014.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/014.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/014.mp3"
+ },
+ {
+"name": "احمد بن طالب","url": "https://server16.mp3quran.net/a_binhameed/Rewayat-Hafs-A-n-Assem/014.mp3"
+ },
+ {  
+"name": "بدر التركي","url": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/014.mp3"
+ },
+ {   
+"name": "صلاح البدير","url": "https://server6.mp3quran.net/s_bud/014.mp3"
+ },
+ {  
+ "name": "احمد النفيس","url": "https://ia801003.us.archive.org/26/items/002_20190712/014.mp3"
+ },
+ {        
+"name": "عبد العزيز التركي","url": "https://server16.mp3quran.net/a_turki/Rewayat-Hafs-A-n-Assem/014.mp3"
+ },
+ {  
+"name": "احمد ديبان","url": "https://ia803000.us.archive.org/20/items/Z02_20190528/014.mp3"
+ },
+ { 
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/014.mp3"
                 },
@@ -1157,6 +1251,54 @@
             "num": 15,
             "sounds": [
                 {
+                    "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/015.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/015.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/015.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/015.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/015.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/015.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/015.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/015.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/015.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/015.mp3"
+ },
+ {
+"name": "احمد بن طالب","url": "https://server16.mp3quran.net/a_binhameed/Rewayat-Hafs-A-n-Assem/015.mp3"
+ },
+ {  
+"name": "بدر التركي","url": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/015.mp3"
+ },
+ {   
+"name": "صلاح البدير","url": "https://server6.mp3quran.net/s_bud/015.mp3"
+ },
+ {  
+ "name": "احمد النفيس","url": "https://ia801003.us.archive.org/26/items/002_20190712/015.mp3"
+ },
+ {        
+"name": "عبد العزيز التركي","url": "https://server16.mp3quran.net/a_turki/Rewayat-Hafs-A-n-Assem/015.mp3"
+ },
+ {  
+"name": "احمد ديبان","url": "https://ia803000.us.archive.org/20/items/Z02_20190528/015.mp3"
+ },
+ {  
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/015.mp3"
                 },
