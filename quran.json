@@ -10,7 +10,43 @@
             "num": 1,
             "sounds": [
                 {
-"name": "صلاح البدير","url": "https://server6.mp3quran.net/s_bud/002.mp3"
+"name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/001.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/001.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/001.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/001.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/001.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/001.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/001.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/001.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/001.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/001.mp3"
+ },
+ {
+"name": "احمد بن طالب","url": "https://server16.mp3quran.net/a_binhameed/Rewayat-Hafs-A-n-Assem/001.mp3"
+ },
+ {  
+"name": "بدر التركي","url": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/001.mp3"
+ },
+ {   
+"name": "صلاح البدير","url": "https://server6.mp3quran.net/s_bud/001.mp3"
  },
  {  
  "name": "احمد النفيس","url": "https://ia801003.us.archive.org/26/items/002_20190712/001.mp3"
@@ -22,325 +58,315 @@
 "name": "احمد ديبان","url": "https://ia803000.us.archive.org/20/items/Z02_20190528/001.mp3"
  },
  {  
-"name": "نبيل الرفاعي","url": "https://server9.mp3quran.net/nabil/001.mp3"
-},
-{  
+ 
+ 
+ 
+ 
+ 
+ "name": "انس جلهوم","url": "https://ia802608.us.archive.org/15/items/128kb-anas--galhoom-----mp3--full--mushaf--quran--114--sora--/003.mp3"
+ },
+ {  
+ "name": "حمزة الجزائري","url": "https://ia601304.us.archive.org/7/items/34734734732473247457/003.mp3"
+ },
+ {  
+ "name": "عبد الباسط رحمه الله","url": "https://server7.mp3quran.net/basit/003.mp3"
+ },
+ {  
+ "name": "عبدالله الموسى","url": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/003.mp3"
+ },
+ {  
+ "name": "عبد الله الزهراني","url": "https://server9.mp3quran.net/zahrani/003.mp3"
+ },
+ {  
+ "name": "العيون الكوشي","url": "https://server11.mp3quran.net/koshi/003.mp3"
+ },
+ {  
+ "name": "فؤاد الخامري","url": "https://ia800406.us.archive.org/11/items/Foad-Al_Khamere/003.mp3"
+ },
+ {  
+ "name": "ناصر القطامي","url": "https://server6.mp3quran.net/qtm/003.mp3"
+ },
+ {  
+ "name": "ياسين الجزائري","url": "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/003.mp3"
+ },
+ {  
+ "name": "حمزة الفار","url": "https://ia801408.us.archive.org/6/items/002_20221105_202211/003.mp3"
+ },
+ {  
+ 
+ 
+ 
+
 "name": "العشري عمران","url": "https://server9.mp3quran.net/omran/001.mp3"
 },
-{ 
+{
 "name": "ياسر القرشي","url": "https://server9.mp3quran.net/qurashi/001.mp3"
 },
-{ 
-"name": "علي الحذيفي","url": "https://server9.mp3quran.net/huthifi_qalon/001.mp3"
-},
-{ 
+{
 "name": "عمر القزابري","url": "https://server9.mp3quran.net/omar_warsh/001.mp3"
 },
-{ 
+{
 "name": "ياسر المزروعي","url": "https://server9.mp3quran.net/mzroyee/001.mp3"
 },
-{ 
+{
 "name": "ماجد الزامل","url": "https://server9.mp3quran.net/zaml/001.mp3"
 },
-{ 
+{
 "name": "زكي الداغستاني","url": "https://server9.mp3quran.net/zahrani/001.mp3"
 },
-{ 
-"name": "عبد العزيز الزهراني","url": "https://server9.mp3quran.net/zahrani/001.mp3"
-},
-{ 
+{
 "name": "وليد النائحي","url": "https://server9.mp3quran.net/waleed/001.mp3"
 },
-{ 
+{
 "name": "يوسف الشويعي","url": "https://server9.mp3quran.net/yousef/001.mp3"
 },
-{ 
+{
 "name": "اكرم العلقمي","url": "https://server9.mp3quran.net/akrm/001.mp3"
 },
-{ 
+{
 "name": "علي السويسي","url": "https://server9.mp3quran.net/hajjaj/001.mp3"
 },
-{ 
+{
 "name": "الزين محمد","url": "https://server9.mp3quran.net/alzain/001.mp3"
 },
-{ 
+{
 "name": "داوود حمزة","url": "https://server9.mp3quran.net/hamza/001.mp3"
 },
-{ 
-"name": "مصطفى اسماعيل","url": "https://server8.mp3quran.net/mustafa/001.mp3" 
+{
+"name": "مصطفى اسماعيل","url": "https://server8.mp3quran.net/mustafa/001.mp3"
 },
-{  
+{
 "name": "يوسف الاحمد","url": "https://server8.mp3quran.net/noah/001.mp3"
 },
-{ 
-"name": "عبد المحسن القاسم","url": "https://server8.mp3quran.net/qasm/001.mp3"
-},
-{ 
+{
 "name": "مصطفى العزاوي","url": "https://server8.mp3quran.net/ra3ad/001.mp3"
 },
-{ 
-"name": "عبد الودود حنيف","url": "https://server8.mp3quran.net/wdod/001.mp3"
-},
-{ 
+{
 "name": "صالح الصاهود","url": "https://server8.mp3quran.net/sahood/001.mp3"
 },
-{   
+{  
 "name": "احمد صابر","url": "https://server8.mp3quran.net/saber/001.mp3"
 },
-{ 
+{
 "name": "عادل ريان","url": "https://server8.mp3quran.net/ryan/001.mp3"
 },
-{ 
+{
 "name": "معيض الحارثي","url": "https://server8.mp3quran.net/harthi/001.mp3"
 },
-{ 
+{
 "name": "محمد جبريل","url": "https://server8.mp3quran.net/jbrl/001.mp3"
 },
-{ 
+{
 "name": "محمد اللحيدان","url": "https://server8.mp3quran.net/lhdan/001.mp3"
 },
-{ 
-"name": "عبدالله المطرود","url": "https://server8.mp3quran.net/mtrod/001.mp3"
-},
-{ 
+{
 "name": "محمود علي البناء","url": "https://server8.mp3quran.net/bna/001.mp3"
 },
-{ 
+{
 "name": "هاني الرفاعي","url": "https://server8.mp3quran.net/hani/001.mp3"
 },
-{ 
+{
 "name": "عبدالله غيلان","url": "https://server8.mp3quran.net/gulan/001.mp3"
 },
-{ 
-"name": "صلاح ابو خاطر","url": "https://server8.mp3quran.net/bu_khtr/001.mp3"
-},
-{ 
+{
 "name": "عادل الكلباني","url": "https://server8.mp3quran.net/a_klb/001.mp3"
 },
-{ 
+{
 "name": "احمد الحذيفي","url": "https://server8.mp3quran.net/ahmad_huth/001.mp3"
 },
-{ 
+{
 "name": "محمد ايوب","url": "https://server8.mp3quran.net/ayyub/001.mp3"
 },
-{ 
+{
 "name": "سعد الشرمي","url": "https://server7.mp3quran.net/shur/001.mp3"
 },
-{ 
+{
 "name": "احمد عامر","url": "https://server10.mp3quran.net/Aamer/001.mp3"
 },
-{ 
+{
 "name": "ابو بكر الشاطري","url": "http://server11.mp3quran.net/shatri/001.mp3"
 },
-{ 
-"name": "عبد المحسن عبيكان", "url": "http://server12.mp3quran.net/obk/001.mp3"            },
-{         
+{
+"name": "عبد المحسن عبيكان", "url": "http://server12.mp3quran.net/obk/001.mp3"
+},
+{                   
 "name": "اجمد الحواشي", "url": "http://server11.mp3quran.net/hawashi/001.mp3"
 },
-{ 
+{
 "name": "احمد الطرابلسي", "url": "http://server10.mp3quran.net/trabulsi/001.mp3"
 },
-{ 
+{
 "name": "اجمد خضر", "url": "http://server10.mp3quran.net/trablsi/001.mp3"
 },
-{ 
+{
 "name": "احمد سعود", "url": "http://server11.mp3quran.net/saud/001.mp3"
 },
-{ 
-"name": "علي الحذيفي-قالون", "url": "http://server9.mp3quran.net/huthifi_qalon/001.mp3"
+{
+"name": "علي الحذيفي - قالون", "url": "http://server9.mp3quran.net/huthifi_qalon/001.mp3"
 },
-{                     
+{                 
  "name": "عبدالله بعيجان", "url": "http://server10.mp3quran.net/Abdullahk/001.mp3"
 },
 {                   
 "name": "احمد نعينع", "url": "http://server11.mp3quran.net/ahmad_nu/001.mp3"
 },
-{ 
+{
 "name": "عبد الهادي كناكري", "url": "http://server6.mp3quran.net/kanakeri/001.mp3"
 },
-{                     
+{               
  "name": "ادريس ابكر", "url": "http://www.mp3quran.net/quran/abkr/001.mp3"
 },
-{   
+{ 
 "name": "عبدالله عواد الجهني", "url": "http://server13.mp3quran.net/jhn/001.mp3"
 },
-{             
+{                    
 "name": "ابراهيم جبرين", "url": "http://server6.mp3quran.net/jbreen/001.mp3"
 },
-{ 
+{
 "name": "ابراهيم الجرمي", "url": "http://server11.mp3quran.net/jormy/001.mp3"
 },
-{ 
+{
 "name": "علي جابر", "url": "http://server11.mp3quran.net/a_jbr/001.mp3"
 },
-{                     
-"name": "ابراهيم الدوسري-ورش", "url": "http://server10.mp3quran.net/ibrahim_dosri_warsh/001.mp3"
+{                  
+"name": "ابراهيم الدوسري - ورش", "url": "http://server10.mp3quran.net/ibrahim_dosri_warsh/001.mp3"
 },
-{ 
+{
 "name": "ابراهيم السعدان", "url": "http://server10.mp3quran.net/IbrahemSadan/001.mp3"
 },
-{ 
+{
 "name": "ابراهيم العسيري", "url": "http://server6.mp3quran.net/3siri/001.mp3"
 },
-{ 
- "name": "محمد الطبلاوي", "url": "http://server12.mp3quran.net/tblawi/001.mp3"
+{
+"name": "محمد الطبلاوي", "url": "http://server12.mp3quran.net/tblawi/001.mp3"
 },
-{                    
+{                  
+"name": "عبد الولي الاركاني", "url": "http://server6.mp3quran.net/arkani/001.mp3"
+},
+{
 "name": "حسيني العزازي-المعلم", "url": "http://server8.mp3quran.net/3zazi/001.mp3"
 },
-{ 
+{
  "name": "الدوكاني-قالون", "url": "http://server7.mp3quran.net/dokali/001.mp3"
 },
-{   
-"name": "العيون الكوشي - ورش", "url": "http://server11.mp3quran.net/koshi/001.mp3"
-},
-{ 
+{  
 "name": "الفاتح محمد - الدوري", "url": "http://server6.mp3quran.net/fateh/001.mp3"
 },
-{ 
+{
  "name": "محمد المحيسني", "url": "http://server11.mp3quran.net/mhsny/001.mp3"
 },
-{                    
-"name": "ياسين الجزائري-ورش", "url": "http://server11.mp3quran.net/qari/001.mp3"
-},
-{ 
+{                   
 "name": "بندر بليلة", "url": "http://server6.mp3quran.net/balilah/001.mp3"
 },
-{ 
+{
 "name": "عبد الغني - ماليزيا", "url": "http://server12.mp3quran.net/malaysia/abdulgani/001.mp3"
 },
-{                     
+{                  
 "name": "توفيق الصايغ", "url": "http://server6.mp3quran.net/twfeeq/001.mp3"
 },
-{ 
+{
 "name": "محمد رشاد", "url": "http://server10.mp3quran.net/rashad/001.mp3"
 },
-{  
+{ 
  "name": "يحيى حواء", "url": "http://server12.mp3quran.net/yahya/001.mp3"
 },
-{                    
+{                   
 "name": "جمال الزيلعي", "url": "http://server11.mp3quran.net/zilaie/001.mp3"
 },
-{ 
+{
  "name": "جمال شاكر", "url": "http://server6.mp3quran.net/jamal/001.mp3"
 },
-{   
-"name": "عبد العزيز الاحمد", "url": "http://server11.mp3quran.net/a_ahmed/001.mp3"
-},
-{                     
+{                 
 "name": "جمعان العصيمي", "url": "http://server6.mp3quran.net/jaman/001.mp3"
 },
-{ 
+{
 "name": "حاتم فريد الواعر", "url": "http://server11.mp3quran.net/hatem/001.mp3"
 },
-{ 
-"name": "محمد صالح", "url": "http://server12.mp3quran.net/shah/001.mp3"                },
-{     
-"name": "حسن ال الشيخ", "url": "http://server11.mp3quran.net/alshaik/001.mp3"
-},
-{ 
- "name": "عبدالله بصفر", "url": "http://server6.mp3quran.net/bsfr/001.mp3"
-},
-{                    
-"name": "حمد الدغريري", "url": "http://server6.mp3quran.net/hamad/001.mp3"
-},
-{ 
-"name": "خالد الشريمي", "url": "http://server12.mp3quran.net/shoraimy/001.mp3"
-},
-{ 
-"name": "ناصر القطامي", "url": "http://server6.mp3quran.net/qtm/001.mp3"
-},
-{                     
-"name": "خالد القخطاني", "url": "http://server10.mp3quran.net/qht/001.mp3"
-},
-{ 
-"name": "نعمة الحسان", "url": "http://server8.mp3quran.net/namh/001.mp3"
-},
-{ 
-"name": "المشاوي مجود", "url": "http://server11.mp3quran.net/minsh_mjwd/001.mp3"
-},
-{                     
-"name": "خالد المهنا", "url": "http://server11.mp3quran.net/mohna/001.mp3"
-},
-{ 
-"name": "الحصري - مجود", "url": "http://server9.mp3quran.net/husr_mjwd/001.mp3"
+{
+"name": "محمد صالح", "url": "http://server12.mp3quran.net/shah/001.mp3"
 },
 {                   
+"name": "حسن ال الشيخ", "url": "http://server11.mp3quran.net/alshaik/001.mp3"
+},
+{
+"name": "عبدالله بصفر", "url": "http://server6.mp3quran.net/bsfr/001.mp3"
+},
+{                   
+"name": "حمد الدغريري", "url": "http://server6.mp3quran.net/hamad/001.mp3"
+},
+{
+"name": "خالد الجليل", "url": "http://server10.mp3quran.net/jleel/001.mp3"
+},
+{
+"name": "خالد الشريمي", "url": "http://server12.mp3quran.net/shoraimy/001.mp3"
+},
+{                 
+"name": "خالد القخطاني", "url": "http://server10.mp3quran.net/qht/001.mp3"
+},
+{
+"name": "نعمة الحسان", "url": "http://server8.mp3quran.net/namh/001.mp3"
+},
+{                   
+"name": "خالد المهنا", "url": "http://server11.mp3quran.net/mohna/001.mp3"
+},
+{               
 "name": "عبدالله خياط", "url": "http://server12.mp3quran.net/kyat/001.mp3"
 },
-{ 
+{
 "name": "خالد عبد الكافي", "url": "http://server11.mp3quran.net/kafi/001.mp3"
 },
-{ 
-"name": "خليفة الطنيجي", "url": "http://server12.mp3quran.net/tnjy/001.mp3"
-},
-{ 
-"name": "سعود الشريم", "url": "http://server7.mp3quran.net/shur/001.mp3"
-},
-{ 
+{
 "name": "الحصري مرتل", "url": "http://server13.mp3quran.net/husr/001.mp3"
 },
-{ 
+{
 "name": "محمد عبد الكريم", "url": "http://server12.mp3quran.net/m_krm/001.mp3"
 },
-{                     
+{                   
 "name": "سهل ياسين", "url": "http://server6.mp3quran.net/shl/001.mp3"
 },
-{ 
-"name": "عبد الرشيد صوفي-خلف", "url": "http://server9.mp3quran.net/soufi_klf/001.mp3"
+{
+"name": "عبد الرشيد صوفي - خلف", "url": "http://server9.mp3quran.net/soufi_klf/001.mp3"
 },
-{                     
+{                    
 "name": "سيد رمضان", "url": "http://server12.mp3quran.net/sayed/001.mp3"
 },
-{ 
+{
 "name": "شيرزاد طاهر", "url": "http://server12.mp3quran.net/taher/001.mp3"
 },
-{ 
- "name": "صلاح البدير", "url": "http://server6.mp3quran.net/s_bud/001.mp3"
-},
-{  
+{
 "name": "محمد عثمان خان- الهند", "url": "http://server6.mp3quran.net/khan/001.mp3"
 },
-{   
+{  
  "name": "محمود الرفاعي", "url": "http://server11.mp3quran.net/mrifai/001.mp3"
 },
-{   
+{
  "name": "محمود البناء", "url": "http://server8.mp3quran.net/bna/001.mp3"
 },
-{                    
+{                  
 "name": "صلاح الهاشم", "url": "http://server12.mp3quran.net/salah_hashim_m/001.mp3"
 },
-{ 
+{
 "name": "طارق دعوب", "url": "http://server10.mp3quran.net/tareq/001.mp3"
 },
-{ 
- "name": "محمود الشيمي-الدوري", "url": "http://server10.mp3quran.net/sheimy/001.mp3"
+{
+ "name": "محمود الشيمي - الدوري", "url": "http://server10.mp3quran.net/sheimy/001.mp3"
 },
-{                    
+{                   
 "name": "عبد الباري الثبيتي", "url": "http://server6.mp3quran.net/thubti/001.mp3"
 },
-{ 
+{
 "name": "عبد الباري محمد", "url": "http://server12.mp3quran.net/bari/001.mp3"
 },
 { 
-"name": "عبد الباسط - ورش", "url": "http://server10.mp3quran.net/basit_warsh/001.mp3"
-},
-{ 
-"name": "عبد الرشيد صوفي - السوسي", "url": "http://server9.mp3quran.net/soufi/001.mp3"
-},
-{ 
-"name": "الحصري - ورش", "url": "http://server9.mp3quran.net/husr_warsh/001.mp3"
-},
-{  
  "name": "مصطفى اللاهواني", "url": "http://server6.mp3quran.net/lahoni/001.mp3"
 },
-{   
- "name": "مفتاح السلطني-شعبة", "url": "http://server11.mp3quran.net/muftah_shobah/001.mp3"
+{ 
+ "name": "مفتاح السلطني - شعبة", "url": "http://server11.mp3quran.net/muftah_shobah/001.mp3"
 },
-{   
+{ 
 "name": "موسى بلال", "url": "http://server11.mp3quran.net/bilal/001.mp3"
 },
-{                    
+{
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/001.mp3"
                 },
@@ -387,7 +413,43 @@
             "num": 2,
             "sounds": [
                 {
-                   "name": "صلاح البدير","url": "https://server6.mp3quran.net/s_bud/002.mp3"
+ "name": "عبد العزيز الاحمد","url": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/002.mp3"
+ },
+ {                   
+"name": "عبد المحسن القاسم","url": "https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/002.mp3"
+ },
+ {   
+"name": "صلاح ابو خاطر","url": "https://download.quranicaudio.com/quran/salaah_bukhaatir/002.mp3"
+ },
+ {                    
+"name": "عبد الودود حنيف","url": "https://download.quranicaudio.com/quran/abdulwadood_haneef/002.mp3"
+ },
+ {   
+"name": "عبدالله بصفر","url": "https://download.quranicaudio.com/quran/abdullaah_basfar/002.mp3"
+ },
+ {   
+"name": "عبد الباسط - ورش","url": "https://download.quranicaudio.com/quran/abdulbaset_warsh/002.mp3"
+ },
+ {    
+"name": "خليفة الطنيجي","url": "https://download.quranicaudio.com/quran/khalifah_taniji/002.mp3"
+ },
+ {   
+"name": "عبد الكريم الحازمي","url": "https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/002.mp3"
+ },
+ {                    
+"name": "عبدالله عواد الجهني","url": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/002.mp3"
+ },
+ {                      
+"name": "سعود الشريم","url": "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/002.mp3"
+ },
+ {
+"name": "احمد بن طالب","url": "https://server16.mp3quran.net/a_binhameed/Rewayat-Hafs-A-n-Assem/002.mp3"
+ },
+ {  
+"name": "بدر التركي","url": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/002.mp3"
+ },
+ {   
+"name": "صلاح البدير","url": "https://server6.mp3quran.net/s_bud/002.mp3"
  },
  {  
  "name": "احمد النفيس","url": "https://ia801003.us.archive.org/26/items/002_20190712/002.mp3"
@@ -399,326 +461,315 @@
 "name": "احمد ديبان","url": "https://ia803000.us.archive.org/20/items/Z02_20190528/002.mp3"
  },
  {  
-"name": "نبيل الرفاعي","url": "https://server9.mp3quran.net/nabil/002.mp3"
-},
-{  
+ 
+ 
+ 
+ 
+ 
+ "name": "انس جلهوم","url": "https://ia802608.us.archive.org/15/items/128kb-anas--galhoom-----mp3--full--mushaf--quran--114--sora--/003.mp3"
+ },
+ {  
+ "name": "حمزة الجزائري","url": "https://ia601304.us.archive.org/7/items/34734734732473247457/003.mp3"
+ },
+ {  
+ "name": "عبد الباسط رحمه الله","url": "https://server7.mp3quran.net/basit/003.mp3"
+ },
+ {  
+ "name": "عبدالله الموسى","url": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/003.mp3"
+ },
+ {  
+ "name": "عبد الله الزهراني","url": "https://server9.mp3quran.net/zahrani/003.mp3"
+ },
+ {  
+ "name": "العيون الكوشي","url": "https://server11.mp3quran.net/koshi/003.mp3"
+ },
+ {  
+ "name": "فؤاد الخامري","url": "https://ia800406.us.archive.org/11/items/Foad-Al_Khamere/003.mp3"
+ },
+ {  
+ "name": "ناصر القطامي","url": "https://server6.mp3quran.net/qtm/003.mp3"
+ },
+ {  
+ "name": "ياسين الجزائري","url": "https://ia802805.us.archive.org/11/items/TvQuran.com__Yaseen/003.mp3"
+ },
+ {  
+ "name": "حمزة الفار","url": "https://ia801408.us.archive.org/6/items/002_20221105_202211/003.mp3"
+ },
+ {  
+ 
+ 
+ 
+
 "name": "العشري عمران","url": "https://server9.mp3quran.net/omran/002.mp3"
 },
-{ 
+{
 "name": "ياسر القرشي","url": "https://server9.mp3quran.net/qurashi/002.mp3"
 },
-{ 
-"name": "علي الحذيفي","url": "https://server9.mp3quran.net/huthifi_qalon/002.mp3"
-},
-{ 
+{
 "name": "عمر القزابري","url": "https://server9.mp3quran.net/omar_warsh/002.mp3"
 },
-{ 
+{
 "name": "ياسر المزروعي","url": "https://server9.mp3quran.net/mzroyee/002.mp3"
 },
-{ 
+{
 "name": "ماجد الزامل","url": "https://server9.mp3quran.net/zaml/002.mp3"
 },
-{ 
+{
 "name": "زكي الداغستاني","url": "https://server9.mp3quran.net/zahrani/002.mp3"
 },
-{ 
-"name": "عبد العزيز الزهراني","url": "https://server9.mp3quran.net/zahrani/002.mp3"
-},
-{ 
+{
 "name": "وليد النائحي","url": "https://server9.mp3quran.net/waleed/002.mp3"
 },
-{ 
+{
 "name": "يوسف الشويعي","url": "https://server9.mp3quran.net/yousef/002.mp3"
 },
-{ 
+{
 "name": "اكرم العلقمي","url": "https://server9.mp3quran.net/akrm/002.mp3"
 },
-{ 
+{
 "name": "علي السويسي","url": "https://server9.mp3quran.net/hajjaj/002.mp3"
 },
-{ 
+{
 "name": "الزين محمد","url": "https://server9.mp3quran.net/alzain/002.mp3"
 },
-{ 
+{
 "name": "داوود حمزة","url": "https://server9.mp3quran.net/hamza/002.mp3"
 },
-{ 
-"name": "مصطفى اسماعيل","url": "https://server8.mp3quran.net/mustafa/002.mp3" 
+{
+"name": "مصطفى اسماعيل","url": "https://server8.mp3quran.net/mustafa/002.mp3"
 },
-{  
+{
 "name": "يوسف الاحمد","url": "https://server8.mp3quran.net/noah/002.mp3"
 },
-{ 
-"name": "عبد المحسن القاسم","url": "https://server8.mp3quran.net/qasm/002.mp3"
-},
-{ 
+{
 "name": "مصطفى العزاوي","url": "https://server8.mp3quran.net/ra3ad/002.mp3"
 },
-{ 
-"name": "عبد الودود حنيف","url": "https://server8.mp3quran.net/wdod/002.mp3"
-},
-{ 
+{
 "name": "صالح الصاهود","url": "https://server8.mp3quran.net/sahood/002.mp3"
 },
-{   
+{  
 "name": "احمد صابر","url": "https://server8.mp3quran.net/saber/002.mp3"
 },
-{ 
+{
 "name": "عادل ريان","url": "https://server8.mp3quran.net/ryan/002.mp3"
 },
-{ 
+{
 "name": "معيض الحارثي","url": "https://server8.mp3quran.net/harthi/002.mp3"
 },
-{ 
+{
 "name": "محمد جبريل","url": "https://server8.mp3quran.net/jbrl/002.mp3"
 },
-{ 
+{
 "name": "محمد اللحيدان","url": "https://server8.mp3quran.net/lhdan/002.mp3"
 },
-{ 
-"name": "عبدالله المطرود","url": "https://server8.mp3quran.net/mtrod/002.mp3"
-},
-{ 
+{
 "name": "محمود علي البناء","url": "https://server8.mp3quran.net/bna/002.mp3"
 },
-{ 
+{
 "name": "هاني الرفاعي","url": "https://server8.mp3quran.net/hani/002.mp3"
 },
-{ 
+{
 "name": "عبدالله غيلان","url": "https://server8.mp3quran.net/gulan/002.mp3"
 },
-{ 
-"name": "صلاح ابو خاطر","url": "https://server8.mp3quran.net/bu_khtr/002.mp3"
-},
-{ 
+{
 "name": "عادل الكلباني","url": "https://server8.mp3quran.net/a_klb/002.mp3"
 },
-{ 
+{
 "name": "احمد الحذيفي","url": "https://server8.mp3quran.net/ahmad_huth/002.mp3"
 },
-{ 
+{
 "name": "محمد ايوب","url": "https://server8.mp3quran.net/ayyub/002.mp3"
 },
-{ 
+{
 "name": "سعد الشرمي","url": "https://server7.mp3quran.net/shur/002.mp3"
 },
-{ 
+{
 "name": "احمد عامر","url": "https://server10.mp3quran.net/Aamer/002.mp3"
 },
-{ 
+{
 "name": "ابو بكر الشاطري","url": "http://server11.mp3quran.net/shatri/002.mp3"
 },
-{ 
+{
 "name": "عبد المحسن عبيكان", "url": "http://server12.mp3quran.net/obk/002.mp3"
 },
-{         
+{                   
 "name": "اجمد الحواشي", "url": "http://server11.mp3quran.net/hawashi/002.mp3"
 },
-{ 
+{
 "name": "احمد الطرابلسي", "url": "http://server10.mp3quran.net/trabulsi/002.mp3"
 },
-{ 
+{
 "name": "اجمد خضر", "url": "http://server10.mp3quran.net/trablsi/002.mp3"
 },
-{ 
+{
 "name": "احمد سعود", "url": "http://server11.mp3quran.net/saud/002.mp3"
 },
-{ 
-"name": "علي الحذيفي-قالون", "url": "http://server9.mp3quran.net/huthifi_qalon/002.mp3"
+{
+"name": "علي الحذيفي - قالون", "url": "http://server9.mp3quran.net/huthifi_qalon/002.mp3"
 },
-{                     
+{                 
  "name": "عبدالله بعيجان", "url": "http://server10.mp3quran.net/Abdullahk/002.mp3"
 },
 {                   
 "name": "احمد نعينع", "url": "http://server11.mp3quran.net/ahmad_nu/002.mp3"
 },
-{ 
+{
 "name": "عبد الهادي كناكري", "url": "http://server6.mp3quran.net/kanakeri/002.mp3"
 },
-{                     
+{               
  "name": "ادريس ابكر", "url": "http://www.mp3quran.net/quran/abkr/002.mp3"
 },
-{   
+{ 
 "name": "عبدالله عواد الجهني", "url": "http://server13.mp3quran.net/jhn/002.mp3"
 },
-{             
+{                    
 "name": "ابراهيم جبرين", "url": "http://server6.mp3quran.net/jbreen/002.mp3"
 },
-{ 
+{
 "name": "ابراهيم الجرمي", "url": "http://server11.mp3quran.net/jormy/002.mp3"
 },
-{ 
+{
 "name": "علي جابر", "url": "http://server11.mp3quran.net/a_jbr/002.mp3"
 },
-{                     
-"name": "ابراهيم الدوسري-ورش", "url": "http://server10.mp3quran.net/ibrahim_dosri_warsh/002.mp3"
+{                  
+"name": "ابراهيم الدوسري - ورش", "url": "http://server10.mp3quran.net/ibrahim_dosri_warsh/002.mp3"
 },
-{ 
+{
 "name": "ابراهيم السعدان", "url": "http://server10.mp3quran.net/IbrahemSadan/002.mp3"
 },
-{ 
+{
 "name": "ابراهيم العسيري", "url": "http://server6.mp3quran.net/3siri/002.mp3"
 },
-{ 
- "name": "محمد الطبلاوي", "url": "http://server12.mp3quran.net/tblawi/002.mp3"
+{
+"name": "محمد الطبلاوي", "url": "http://server12.mp3quran.net/tblawi/002.mp3"
 },
-{                    
+{                  
+"name": "عبد الولي الاركاني", "url": "http://server6.mp3quran.net/arkani/002.mp3"
+},
+{
 "name": "حسيني العزازي-المعلم", "url": "http://server8.mp3quran.net/3zazi/002.mp3"
 },
-{ 
+{
  "name": "الدوكاني-قالون", "url": "http://server7.mp3quran.net/dokali/002.mp3"
 },
-{   
-"name": "العيون الكوشي - ورش", "url": "http://server11.mp3quran.net/koshi/002.mp3"
-},
-{ 
+{  
 "name": "الفاتح محمد - الدوري", "url": "http://server6.mp3quran.net/fateh/002.mp3"
 },
-{ 
+{
  "name": "محمد المحيسني", "url": "http://server11.mp3quran.net/mhsny/002.mp3"
 },
-{                    
-"name": "ياسين الجزائري-ورش", "url": "http://server11.mp3quran.net/qari/002.mp3"
-},
-{ 
+{                   
 "name": "بندر بليلة", "url": "http://server6.mp3quran.net/balilah/002.mp3"
 },
-{ 
+{
 "name": "عبد الغني - ماليزيا", "url": "http://server12.mp3quran.net/malaysia/abdulgani/002.mp3"
 },
-{                     
+{                  
 "name": "توفيق الصايغ", "url": "http://server6.mp3quran.net/twfeeq/002.mp3"
 },
-{ 
+{
 "name": "محمد رشاد", "url": "http://server10.mp3quran.net/rashad/002.mp3"
 },
-{  
+{ 
  "name": "يحيى حواء", "url": "http://server12.mp3quran.net/yahya/002.mp3"
 },
-{                    
+{                   
 "name": "جمال الزيلعي", "url": "http://server11.mp3quran.net/zilaie/002.mp3"
 },
-{ 
+{
  "name": "جمال شاكر", "url": "http://server6.mp3quran.net/jamal/002.mp3"
 },
-{   
-"name": "عبد العزيز الاحمد", "url": "http://server11.mp3quran.net/a_ahmed/002.mp3"
-},
-{                     
+{                 
 "name": "جمعان العصيمي", "url": "http://server6.mp3quran.net/jaman/002.mp3"
 },
-{ 
+{
 "name": "حاتم فريد الواعر", "url": "http://server11.mp3quran.net/hatem/002.mp3"
 },
-{ 
-"name": "محمد صالح", "url": "http://server12.mp3quran.net/shah/002.mp3"                },
-{     
-"name": "حسن ال الشيخ", "url": "http://server11.mp3quran.net/alshaik/002.mp3"
-},
-{ 
- "name": "عبدالله بصفر", "url": "http://server6.mp3quran.net/bsfr/002.mp3"
-},
-{                    
-"name": "حمد الدغريري", "url": "http://server6.mp3quran.net/hamad/002.mp3"
-},
-{ 
-"name": "خالد الشريمي", "url": "http://server12.mp3quran.net/shoraimy/002.mp3"
-},
-{ 
-"name": "ناصر القطامي", "url": "http://server6.mp3quran.net/qtm/002.mp3"
-},
-{                     
-"name": "خالد القخطاني", "url": "http://server10.mp3quran.net/qht/002.mp3"
-},
-{ 
-"name": "نعمة الحسان", "url": "http://server8.mp3quran.net/namh/002.mp3"
-},
-{ 
-"name": "المشاوي مجود", "url": "http://server11.mp3quran.net/minsh_mjwd/002.mp3"
-},
-{                     
-"name": "خالد المهنا", "url": "http://server11.mp3quran.net/mohna/002.mp3"
-},
-{ 
-"name": "الحصري - مجود", "url": "http://server9.mp3quran.net/husr_mjwd/002.mp3"
+{
+"name": "محمد صالح", "url": "http://server12.mp3quran.net/shah/002.mp3"
 },
 {                   
+"name": "حسن ال الشيخ", "url": "http://server11.mp3quran.net/alshaik/002.mp3"
+},
+{
+"name": "عبدالله بصفر", "url": "http://server6.mp3quran.net/bsfr/002.mp3"
+},
+{                   
+"name": "حمد الدغريري", "url": "http://server6.mp3quran.net/hamad/002.mp3"
+},
+{
+"name": "خالد الجليل", "url": "http://server10.mp3quran.net/jleel/002.mp3"
+},
+{
+"name": "خالد الشريمي", "url": "http://server12.mp3quran.net/shoraimy/002.mp3"
+},
+{                 
+"name": "خالد القخطاني", "url": "http://server10.mp3quran.net/qht/002.mp3"
+},
+{
+"name": "نعمة الحسان", "url": "http://server8.mp3quran.net/namh/002.mp3"
+},
+{                   
+"name": "خالد المهنا", "url": "http://server11.mp3quran.net/mohna/002.mp3"
+},
+{               
 "name": "عبدالله خياط", "url": "http://server12.mp3quran.net/kyat/002.mp3"
 },
-{ 
+{
 "name": "خالد عبد الكافي", "url": "http://server11.mp3quran.net/kafi/002.mp3"
 },
-{ 
-"name": "خليفة الطنيجي", "url": "http://server12.mp3quran.net/tnjy/002.mp3"
-},
-{ 
-"name": "سعود الشريم", "url": "http://server7.mp3quran.net/shur/002.mp3"
-},
-{ 
+{
 "name": "الحصري مرتل", "url": "http://server13.mp3quran.net/husr/002.mp3"
 },
-{ 
+{
 "name": "محمد عبد الكريم", "url": "http://server12.mp3quran.net/m_krm/002.mp3"
 },
-{                     
+{                   
 "name": "سهل ياسين", "url": "http://server6.mp3quran.net/shl/002.mp3"
 },
-{ 
-"name": "عبد الرشيد صوفي-خلف", "url": "http://server9.mp3quran.net/soufi_klf/002.mp3"
+{
+"name": "عبد الرشيد صوفي - خلف", "url": "http://server9.mp3quran.net/soufi_klf/002.mp3"
 },
-{                     
+{                    
 "name": "سيد رمضان", "url": "http://server12.mp3quran.net/sayed/002.mp3"
 },
-{ 
+{
 "name": "شيرزاد طاهر", "url": "http://server12.mp3quran.net/taher/002.mp3"
 },
-{ 
- "name": "صلاح البدير", "url": "http://server6.mp3quran.net/s_bud/002.mp3"
-},
-{  
+{
 "name": "محمد عثمان خان- الهند", "url": "http://server6.mp3quran.net/khan/002.mp3"
 },
-{   
+{  
  "name": "محمود الرفاعي", "url": "http://server11.mp3quran.net/mrifai/002.mp3"
 },
-{   
+{
  "name": "محمود البناء", "url": "http://server8.mp3quran.net/bna/002.mp3"
 },
-{                    
+{                  
 "name": "صلاح الهاشم", "url": "http://server12.mp3quran.net/salah_hashim_m/002.mp3"
 },
-{ 
+{
 "name": "طارق دعوب", "url": "http://server10.mp3quran.net/tareq/002.mp3"
 },
-{ 
- "name": "محمود الشيمي-الدوري", "url": "http://server10.mp3quran.net/sheimy/002.mp3"
+{
+ "name": "محمود الشيمي - الدوري", "url": "http://server10.mp3quran.net/sheimy/002.mp3"
 },
-{                    
+{                   
 "name": "عبد الباري الثبيتي", "url": "http://server6.mp3quran.net/thubti/002.mp3"
 },
-{ 
+{
 "name": "عبد الباري محمد", "url": "http://server12.mp3quran.net/bari/002.mp3"
 },
 { 
-"name": "عبد الباسط - ورش", "url": "http://server10.mp3quran.net/basit_warsh/002.mp3"
-},
-{ 
-"name": "عبد الرشيد صوفي - السوسي", "url": "http://server9.mp3quran.net/soufi/002.mp3"
-},
-{ 
-"name": "الحصري - ورش", "url": "http://server9.mp3quran.net/husr_warsh/002.mp3"
-},
-{  
  "name": "مصطفى اللاهواني", "url": "http://server6.mp3quran.net/lahoni/002.mp3"
 },
-{   
- "name": "مفتاح السلطني-شعبة", "url": "http://server11.mp3quran.net/muftah_shobah/002.mp3"
-},
-{   
-"name": "موسى بلال", "url": "http://server11.mp3quran.net/bilal/002.mp3"
+{ 
+ "name": "مفتاح السلطني - شعبة", "url": "http://server11.mp3quran.net/muftah_shobah/002.mp3"
 },
 { 
+"name": "موسى بلال", "url": "http://server11.mp3quran.net/bilal/002.mp3"
+},
+{
                     "name": "فارس عباد",
                     "url": "https://download.quranicaudio.com/quran/fares/002.mp3"
                 },
