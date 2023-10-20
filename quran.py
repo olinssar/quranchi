@@ -37,7 +37,7 @@ async def Call():
         sound_name = surah_sound["name"]
         sound_url = surah_sound["url"]
         surah_name = surah["surah"]
-        title = f"{surah_name} | {sound_name}"
+        title = f"۞ {surah_name} | {sound_name}"
         try:
                     getGroupCall = await call.get_active_call(CHAT_ID)
                     if not getGroupCall.is_playing:
