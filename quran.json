@@ -7,6 +7,9 @@
 "s": [{
 "num": 1,
 "sounds": [{
+"name": "هشام الهراز","url": "https://ia904707.us.archive.org/23/items/002_20221104_20221104_1824/001.mp3"},{	
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/001.mp3"},{	
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/001.mp3"},{
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/001.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/001.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/001.mp3"},{  
@@ -242,6 +245,8 @@
 "surah": "الفاتحة"},{ 
 "num": 2,
 "sounds": [{
+"name": "هشام الهراز","url": "https://ia904707.us.archive.org/23/items/002_20221104_20221104_1824/002.mp3"},{	
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/002.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/002.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/002.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/002.mp3"},{  
@@ -485,6 +490,8 @@
             "num": 3,
             "sounds": [
                 {
+"name": "هشام الهراز","url": "https://ia904707.us.archive.org/23/items/002_20221104_20221104_1824/003.mp3"},{					
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/003.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/003.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/003.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/003.mp3"},{  
@@ -727,6 +734,8 @@
             "num": 4,
             "sounds": [
                 {
+"name": "هشام الهراز","url": "https://ia904707.us.archive.org/23/items/002_20221104_20221104_1824/004.mp3"},{					
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/004.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/004.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/004.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/004.mp3"},{  
@@ -963,12 +972,11 @@
 "name": "موسى بلال", "url": "http://server11.mp3quran.net/bilal/004.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/004.mp3"
 }],
-            "surah": "النساء"
-        },
-        {
-            "num": 5,
-            "sounds": [
-                {
+"surah": "النساء"},{
+"num": 5,
+"sounds": [{
+"name": "هشام الهراز","url": "https://ia904707.us.archive.org/23/items/002_20221104_20221104_1824/005.mp3"},{					
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/005.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/005.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/005.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/005.mp3"},{  
@@ -1211,6 +1219,7 @@
             "num": 6,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/006.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/006.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/006.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/006.mp3"},{  
@@ -1453,6 +1462,7 @@
             "num": 7,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/007.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/007.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/007.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/007.mp3"},{  
@@ -1695,6 +1705,7 @@
             "num": 8,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/008.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/008.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/008.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/008.mp3"},{  
@@ -1938,6 +1949,7 @@
             "num": 9,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/009.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/009.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/009.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/009.mp3"},{  
@@ -2180,6 +2192,7 @@
             "num": 10,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/010.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/010.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/010.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/010.mp3"},{  
@@ -2422,6 +2435,7 @@
             "num": 11,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/011.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/011.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/011.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/011.mp3"},{  
@@ -2664,6 +2678,7 @@
             "num": 12,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/012.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/012.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/012.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/012.mp3"},{  
@@ -2906,6 +2921,7 @@
             "num": 13,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/013.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/013.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/013.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/013.mp3"},{  
@@ -3148,6 +3164,7 @@
             "num": 14,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/014.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/014.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/014.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/014.mp3"},{  
@@ -3390,6 +3407,7 @@
             "num": 15,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/015.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/015.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/015.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/015.mp3"},{  
@@ -3632,6 +3650,7 @@
             "num": 16,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/016.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/016.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/016.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/016.mp3"},{  
@@ -3874,6 +3893,7 @@
             "num": 17,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/017.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/017.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/017.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/017.mp3"},{  
@@ -4116,6 +4136,8 @@
             "num": 18,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/018.mp3"},{					
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/018.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/018.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/018.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/018.mp3"},{  
@@ -4358,6 +4380,8 @@
             "num": 19,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/019.mp3"},{					
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/019.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/019.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/019.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/019.mp3"},{  
@@ -4600,6 +4624,7 @@
             "num": 20,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/020.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/020.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/020.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/020.mp3"},{  
@@ -4842,6 +4867,7 @@
             "num": 21,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/021.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/021.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/021.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/021.mp3"},{  
@@ -5084,6 +5110,7 @@
             "num": 22,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/022.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/022.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/022.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/022.mp3"},{  
@@ -5326,6 +5353,7 @@
             "num": 23,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/023.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/023.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/023.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/023.mp3"},{  
@@ -5568,6 +5596,7 @@
             "num": 24,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/024.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/024.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/024.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/024.mp3"},{  
@@ -5810,7 +5839,8 @@
             "num": 25,
             "sounds": [
                 {
-					
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/025.mp3"},{					
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/025.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/025.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/025.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/025.mp3"},{  
@@ -6053,6 +6083,7 @@
             "num": 26,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/026.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/026.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/026.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/026.mp3"},{  
@@ -6295,6 +6326,7 @@
             "num": 27,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/027.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/027.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/027.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/027.mp3"},{  
@@ -6537,6 +6569,7 @@
             "num": 28,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/028.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/028.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/028.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/028.mp3"},{  
@@ -6779,6 +6812,7 @@
             "num": 29,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/029.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/029.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/029.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/029.mp3"},{  
@@ -7021,6 +7055,7 @@
             "num": 30,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/030.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/030.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/030.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/030.mp3"},{  
@@ -7263,6 +7298,8 @@
             "num": 31,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/031.mp3"},{					
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/031.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/031.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/031.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/031.mp3"},{  
@@ -7505,6 +7542,7 @@
             "num": 32,
             "sounds": [
                 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/032.mp3"},{					
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/032.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/032.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/032.mp3"},{  
@@ -7744,6 +7782,7 @@
 "surah": "السجدة"},{
 "num": 33,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/033.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/033.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/033.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/033.mp3"},{  
@@ -7983,6 +8022,7 @@
 "surah": "الاحزاب"},{
 "num": 34,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/034.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/034.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/034.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/034.mp3"},{  
@@ -8222,6 +8262,7 @@
 "surah": "سبا"},{
 "num": 35,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/035.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/035.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/035.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/035.mp3"},{  
@@ -8461,6 +8502,7 @@
 "surah": "فاطر"},{
 "num": 36,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/036.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/036.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/036.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/036.mp3"},{  
@@ -8699,6 +8741,7 @@
 "surah": "يـس"},{
 "num": 37,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/037.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/037.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/037.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/037.mp3"},{  
@@ -8936,8 +8979,9 @@
 "name": "ياسر الدوسري","url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/037.mp3"
 }],
 "surah": "الصافات"},{
-"num":38,
+"num": 38,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/038.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/038.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/038.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/038.mp3"},{  
@@ -9177,6 +9221,8 @@
 "surah": "ص"},{
 "num": 39,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/039.mp3"},{	
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/039.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/039.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/039.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/039.mp3"},{  
@@ -9414,8 +9460,9 @@
 "name": "ياسر الدوسري","url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/039.mp3"
 }],
 "surah": "الزمر"},{
-"num":40,
+"num": 40,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/040.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/040.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/040.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/040.mp3"},{  
@@ -9654,8 +9701,9 @@
 }],
 
 "surah": "غافر"},{
-"num":41,
+"num": 41,
 "sounds": [{
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/041.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/041.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/041.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/041.mp3"},{  
@@ -9895,9 +9943,9 @@
 }],
 
 "surah": "فصلت"},{
-"num":42,
+"num": 42,
 "sounds": [{
-
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/042.mp3"},{
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/042.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/042.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/042.mp3"},{  
@@ -10138,7 +10186,7 @@
 "surah": "الشورى"},{
 "num":43,
 "sounds": [{
-
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/043.mp3"},{
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/043.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/043.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/043.mp3"},{  
@@ -10378,7 +10426,7 @@
 "surah": "الزخرف"},{
 "num":44,
 "sounds":[{
-
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/044.mp3"},{
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/044.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/044.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/044.mp3"},{  
@@ -10618,7 +10666,7 @@
 "surah": "الدخان"},{
 "num": 45,
 "sounds": [{
-
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/045.mp3"},{
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/045.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/045.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/045.mp3"},{  
@@ -10859,6 +10907,7 @@
 "num": 46,
 "sounds": [
 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/046.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/046.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/046.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/046.mp3"},{  
@@ -11099,6 +11148,7 @@
 "num": 47,
 "sounds": [
 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/047.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/047.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/047.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/047.mp3"},{  
@@ -11338,7 +11388,7 @@
 "num": 48,
 "sounds": [
 {
-
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/048.mp3"},{
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/048.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/048.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/048.mp3"},{  
@@ -11579,7 +11629,7 @@
 "num": 49,
 "sounds": [
 {
-
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/049.mp3"},{
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/049.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/049.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/049.mp3"},{  
@@ -11820,6 +11870,7 @@
 "num": 50,
 "sounds": [
 {
+"name": "الشيخ خالد الجليل","url": "https://server10.mp3quran.net/jleel/050.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/050.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/050.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/050.mp3"},{  
@@ -15928,6 +15979,7 @@
 "num": 67,
 "sounds": [
 {
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/067.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/067.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/067.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/067.mp3"},{  
@@ -17132,6 +17184,7 @@
 "num": 72,
 "sounds": [
 {
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/072.mp3"},{	
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/072.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/072.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/072.mp3"},{  
@@ -17779,7 +17832,7 @@
 "num": 75,
 "sounds": [
 {
-
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/075.mp3"},{
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/075.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/075.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/075.mp3"},{  
@@ -24503,6 +24556,7 @@
             "num": 112,
             "sounds": [
                 {
+"name": "عبد العزيز سحيم","url": "https://ia802603.us.archive.org/32/items/018_20230428_20230428/112.mp3"},{		
 "name": "ماهر المعيقلي","url": "https://download.ourquraan.com/Maher_Al-Muaiqly/112.mp3"},{  
 "name": "ياسر سلامة","url": "https://download.ourquraan.com/Yaser_Salamah/112.mp3"},{
 "name": "ياسر الدوسري","url": "https://download.ourquraan.com/Yasser_Aldosari/112.mp3"},{  
